@@ -1,0 +1,7 @@
+{
+  "name": "gemini-news-article-generator",
+  "version": "1.0.0",
+  "description": "Enter a topic, click one button, get a news article written by Google Gemini.",
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
